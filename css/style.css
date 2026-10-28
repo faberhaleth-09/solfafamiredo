@@ -1,0 +1,340 @@
+:root {
+    /* Palet Warna Berdasarkan Referensi yang Diberikan */
+    --warna-utama: #FFBCCE;    /* Pink lembut (dominan) */
+    --warna-kedua: #F690AD;    /* Pink medium untuk hover/aksen */
+    --warna-aksen: #FECA9F;    /* Peach lembut */
+    --oranye: #F9A680;         /* Oranye pastel */
+    --biru: #8697E2;           /* Biru pastel lembut */
+    
+    /* Warna Pendukung Teks & Latar */
+    --teks-utama: #6D4C5E;     /* Ungu kecoklatan agar kontras dan mudah dibaca */
+    --bg-kartu: #FFF0F3;       /* Pink sangat muda untuk latar kartu */
+}
+
+/* RESET DASAR */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* TAMPILAN UMUM */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: var(--teks-utama);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #fff9fa;
+}
+
+/* HEADER */
+.site-header {
+    padding: 1rem 2rem;
+    background-color: var(--warna-utama);
+    color: var(--teks-utama);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* TAGLINE */
+.tagline {
+    font-size: 0.85rem;
+    color: #8c5a6d;
+}
+
+/* MENU */
+.main-menu ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.main-menu a {
+    color: var(--teks-utama);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.main-menu a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* CONTENT */
+.site-content {
+    padding: 2rem;
+    text-align: left;
+    flex: 1;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.site-content section {
+    margin-bottom: 2rem;
+}
+
+/* LOGO */
+.logo {
+    border-radius: 50px;
+    height: 95px;
+    width: auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: var(--bg-kartu);
+    border: 1px solid var(--warna-utama);
+    border-radius: 8px;
+    padding: 1rem;
+    color: var(--teks-utama);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.product-photo {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background-color: var(--biru);
+    margin-bottom: 1rem;
+    border-radius: 6px;
+}
+
+.meta {
+    color: #8c5a6d;
+    font-size: 0.9rem;
+}
+
+.price {
+    font-weight: bold;
+    color: var(--warna-kedua);
+    margin-top: 0.5rem;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.site-footer {
+    padding: 1.5rem;
+    background-color: #3b2e35;
+    color: #f3e8ec;
+    text-align: center;
+    font-size: 0.85rem;
+}
+
+/* ===== Responsif ===== */
+img {
+    max-width: 100%;
+}
+
+@media (max-width: 600px) {
+    .site-header { 
+        flex-direction: column; 
+        gap: 1rem;
+        text-align: center;
+    }
+    .main-menu ul {
+        gap: 1rem;
+        justify-content: center;
+    }
+    .site-content {
+        padding: 1rem;
+    }
+    .brand {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* ===== Filter, tombol, dan formulir ===== */ 
+.filters { 
+  display: flex; 
+  gap: 0.5rem; 
+  margin: 0.75rem 0; 
+  flex-wrap: wrap;
+} 
+ 
+.filter { 
+  padding: 0.3rem 0.9rem; 
+  border: 1px solid var(--warna-utama); 
+  background: #ffffff; 
+  border-radius: 999px; 
+  cursor: pointer; 
+  text-transform: capitalize; 
+  color: var(--teks-utama);
+} 
+ 
+.filter.active { 
+  background: var(--warna-utama);
+  color: var(--teks-utama); 
+  font-weight: bold;
+} 
+ 
+.btn { 
+  display: inline-block; 
+  padding: 0.5rem 1.1rem; 
+  background: var(--warna-kedua); 
+  color: #ffffff; 
+  border: none; 
+  border-radius: 6px; 
+  cursor: pointer; 
+  transition: background 0.2s;
+} 
+
+.btn:hover {
+    background: var(--oranye);
+}
+ 
+form { 
+  display: grid; 
+  gap: 0.75rem; 
+  max-width: 420px; 
+  margin-top: 1rem; 
+} 
+ 
+label { 
+  display: grid; 
+  gap: 0.25rem; 
+  font-weight: bold; 
+  color: var(--teks-utama);
+} 
+ 
+input, 
+textarea { 
+  padding: 0.5rem; 
+  font: inherit; 
+  border: 1px solid #dfc1cb; 
+  border-radius: 4px; 
+  background-color: #fff;
+} 
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: var(--warna-kedua);
+    box-shadow: 0 0 0 3px rgba(246, 144, 173, 0.2);
+}
+ 
+#form-status { 
+  min-height: 1.5em; 
+  color: var(--warna-kedua); 
+} 
+
+/* ====== Spesifitas Style Form Kontak ======*/
+#form-kontak label {
+    display: grid;
+    gap: 0.25rem;
+    font-weight: bold;
+    margin-bottom: 0;
+    color: var(--teks-utama);
+}
+
+#form-kontak input,
+#form-kontak textarea {
+    padding: 0.5rem;
+    font: inherit;
+    border: 1px solid #dfc1cb;
+    border-radius: 4px;
+    margin: 0;
+}
+
+#form-kontak button {
+    display: inline-block;
+    margin: 5px 0;
+    padding: 0.7rem 1.1rem;
+    background: var(--warna-utama);
+    color: var(--teks-utama);
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#form-kontak button:hover {
+    background: var(--warna-kedua);
+    color: #ffffff;
+}
+
+#form-kontak * {
+    all: revert;
+}
+
+#form-kontak {
+    display: grid;
+    gap: 0.75rem;
+    max-width: 420px;
+    margin-top: 1rem;
+}
+
+/* Tombol Bersebelahan & Responsif (Kontak Kami) */
+#form-kontak .tombol-kontak-group {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#form-kontak .tombol-kontak-group button {
+    flex: 1 1 160px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.7rem 1rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+#form-kontak .tombol-kontak-group button:active {
+    transform: scale(0.97);
+}
+
+/* Tombol WhatsApp (Hijau Lembut) */
+#form-kontak .tombol-kontak-group .btn-wa {
+    background-color: #2e9352;
+    color: #ffffff;
+}
+
+#form-kontak .tombol-kontak-group .btn-wa:hover {
+    background-color: #247641;
+}
+
+/* Tombol Email (Menggunakan warna Biru dari palet) */
+#form-kontak .tombol-kontak-group .btn-email {
+    background-color: var(--biru);
+    color: #ffffff;
+}
+
+#form-kontak .tombol-kontak-group .btn-email:hover {
+    background-color: #6c7ecb;
+}
+
+.medsos a {
+    text-decoration: none;
+    color: var(--warna-aksen);
+    margin: 0 0.5rem;
+}
+
+.medsos a:hover {
+    color: var(--warna-utama);
+}

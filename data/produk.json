@@ -1,0 +1,74 @@
+{
+    "site": {
+        "nama": "Kopi Nusantara",
+        "email": "halo@kopinusantara.test"
+    },
+    "menu": [
+        {
+            "id": "beranda",
+            "label": "Beranda"
+        },
+        {
+            "id": "produk",
+            "label": "Produk"
+        },
+        {
+            "id": "kontak",
+            "label": "Kontak"
+        },
+        {
+            "id": "tentang-kami",
+            "label": "Tentang Kami"
+        }
+    ],
+    "produk": [
+        {
+            "id": 1,
+            "slug": "amigurumi",
+            "nama": "Amigurumi",
+            "asal": "Handmade Crochet",
+            "kategori": "ready",
+            "harga": 35000,
+            "stok": 7,
+            "deskripsi": "Boneka kelinci rajut handmade dengan desain lucu dan warna lembut. Cocok sebagai hadiah atau koleksi.",
+            "foto": "img/amigurumi.jpeg",
+            "alt": "Boneka crochet handmade"
+        },
+        {
+            "id": 2,
+            "slug": "pembungkus-botol",
+            "nama": "Pembungkus Botol",
+            "asal": "Handmade Crochet",
+            "kategori": "ready",
+            "harga": 45000,
+            "stok": 6,
+            "deskripsi": "Pembungkus botol rajut dengan motif yang cantik. Membuat botol minum tampil lebih menarik dan unik.",
+            "foto": "img/bungkus-botol.jpeg",
+            "alt": "Pembungkus botol crochet"
+        },
+        {
+            "id": 3,
+            "slug": "buket-bunga",
+            "nama": "Buket Bunga",
+            "asal": "Handmade Crochet",
+            "kategori": "ready",
+            "harga": 100000,
+            "stok": 3,
+            "deskripsi": "Buket bunga matahari rajut dengan tampilan cerah dan menarik. Dibuat dengan detail handmade.",
+            "foto": "img/buket.jpeg",
+            "alt": "Buket bunga rajut handmade"
+        },
+        {
+            "id": 4,
+            "slug": "custom-crochet",
+            "nama": "Custom Crochet",
+            "asal": "Made to Order",
+            "kategori": "pre-order",
+            "harga": 50000,
+            "stok": 9,
+            "deskripsi": "Pesan karya crochet sesuai keinginan, mulai dari jenis produk, ukuran, warna, hingga tingkat kesulitan. Harga akhir disesuaikan dengan detail pesanan dan dikonfirmasi sebelum pengerjaan.",
+            "foto": "img/custom.jpeg",
+            "alt": "Contoh karya crochet custom"
+        }
+    ]
+}

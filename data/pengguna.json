@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nama": "Admin Kopi Nusantara",
+        "username": "admin",
+        "kata_sandi": "$2y$10$5ST6C2tpCrge2HvRQteIhe9yXUaXuMP9XPwuVIwPfEp2qSnbB6uea"
+    },
+    {
+        "id": 2,
+        "nama": "Admin Kopi Nusantara",
+        "username": "admin",
+        "kata_sandi": "$2y$10$JuvE4/sD5kNbKFqdH/RDIuHwD2t3ZXbbhW4xVMjaUd91X/yG2HdtG"
+    },
+    {
+        "id": 3,
+        "nama": "farya",
+        "username": "faberhaleth",
+        "kata_sandi": "$2y$10$TabB4qflgKlj8YWpJfB6u.bnxLVqx.xZsu3TBwBwn2PAd1W12vnYS"
+    }
+]

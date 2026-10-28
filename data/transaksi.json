@@ -1,0 +1,911 @@
+[
+    {
+        "id": 1,
+        "kode_transaksi": "KN-9F68369B",
+        "nama_pemesan": "far",
+        "kontak": "085340987191",
+        "total": 586000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-24 06:32:16",
+        "items": [
+            {
+                "produk_id": 7,
+                "jumlah": 1,
+                "harga_saat_beli": 82000
+            },
+            {
+                "produk_id": 8,
+                "jumlah": 1,
+                "harga_saat_beli": 87000
+            },
+            {
+                "produk_id": 9,
+                "jumlah": 1,
+                "harga_saat_beli": 89000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 2,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 4,
+                "jumlah": 1,
+                "harga_saat_beli": 88000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "kode_transaksi": "KN-BAC3F47E",
+        "nama_pemesan": "far",
+        "kontak": "085340987191",
+        "total": 350000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-25 13:35:23",
+        "items": [
+            {
+                "produk_id": 10,
+                "jumlah": 2,
+                "harga_saat_beli": 84000
+            },
+            {
+                "produk_id": 11,
+                "jumlah": 2,
+                "harga_saat_beli": 91000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "kode_transaksi": "KN-462E574A",
+        "nama_pemesan": "far",
+        "kontak": "085340987191",
+        "total": 169000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-25 13:46:24",
+        "items": [
+            {
+                "produk_id": 7,
+                "jumlah": 1,
+                "harga_saat_beli": 82000
+            },
+            {
+                "produk_id": 8,
+                "jumlah": 1,
+                "harga_saat_beli": 87000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "kode_transaksi": "KN-BD49BD30",
+        "nama_pemesan": "wewew",
+        "kontak": "085340987191",
+        "total": 165000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-25 13:51:30",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 85000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "kode_transaksi": "KN-F9674E1E",
+        "nama_pemesan": "wewew",
+        "kontak": "085340987191",
+        "total": 341000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-25 21:55:18",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 85000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            },
+            {
+                "produk_id": 8,
+                "jumlah": 1,
+                "harga_saat_beli": 87000
+            },
+            {
+                "produk_id": 9,
+                "jumlah": 1,
+                "harga_saat_beli": 89000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "kode_transaksi": "KN-FC7D8DD7",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 111000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 08:20:36",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "kode_transaksi": "KN-C1C6CB66",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 213000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:13:28",
+        "items": [
+            {
+                "produk_id": 5,
+                "jumlah": 1,
+                "harga_saat_beli": 60000
+            },
+            {
+                "produk_id": 4,
+                "jumlah": 1,
+                "harga_saat_beli": 88000
+            },
+            {
+                "produk_id": 6,
+                "jumlah": 1,
+                "harga_saat_beli": 65000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "kode_transaksi": "KN-DB365440",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 169000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:16:47",
+        "items": [
+            {
+                "produk_id": 7,
+                "jumlah": 1,
+                "harga_saat_beli": 82000
+            },
+            {
+                "produk_id": 8,
+                "jumlah": 1,
+                "harga_saat_beli": 87000
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "kode_transaksi": "KN-C28E9064",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:16:54",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "kode_transaksi": "KN-254B845F",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 206000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:17:29",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "kode_transaksi": "KN-DDC98962",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 206000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:18:19",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "kode_transaksi": "KN-8986F3C6",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 111000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:27:16",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "kode_transaksi": "KN-06F66ECF",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:27:22",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "kode_transaksi": "KN-4CBF1881",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 335000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:35:35",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 2,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 10,
+                "jumlah": 1,
+                "harga_saat_beli": 84000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "kode_transaksi": "KN-8292B4DD",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 206000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:35:40",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "kode_transaksi": "KN-FB4F27DC",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:35:43",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "kode_transaksi": "KN-85E455C5",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 455000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:38:05",
+        "items": [
+            {
+                "produk_id": 5,
+                "jumlah": 3,
+                "harga_saat_beli": 60000
+            },
+            {
+                "produk_id": 6,
+                "jumlah": 3,
+                "harga_saat_beli": 65000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "kode_transaksi": "KN-62B9F048",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 206000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:57:35",
+        "items": [
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "kode_transaksi": "KN-21B9B459",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:57:44",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "kode_transaksi": "KN-CD1AB2A2",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 120000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 10:57:56",
+        "items": [
+            {
+                "produk_id": 5,
+                "jumlah": 2,
+                "harga_saat_beli": 60000
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "kode_transaksi": "KN-5B4A251D",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 290000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:00:19",
+        "items": [
+            {
+                "produk_id": 15,
+                "jumlah": 2,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 2,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "kode_transaksi": "KN-25C12FEB",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 145000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:00:25",
+        "items": [
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "kode_transaksi": "KN-FEA9E3E4",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 371000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:03:34",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 85000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "kode_transaksi": "KN-4EDB0675",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 145000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:03:47",
+        "items": [
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "kode_transaksi": "KN-76037D7A",
+        "nama_pemesan": "farya",
+        "kontak": "hjhjhjhj",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:04:27",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "kode_transaksi": "KN-DC97E6AA",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 412000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 11:15:46",
+        "items": [
+            {
+                "produk_id": 15,
+                "jumlah": 2,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 2,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 2,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "kode_transaksi": "KN-6F4331AC",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 165000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 22:26:11",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 85000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "kode_transaksi": "KN-ABFA75D0",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 312000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-26 22:27:32",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 2,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 2,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "kode_transaksi": "KN-B033DEC8",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 169000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 08:52:14",
+        "items": [
+            {
+                "produk_id": 7,
+                "jumlah": 1,
+                "harga_saat_beli": 82000
+            },
+            {
+                "produk_id": 8,
+                "jumlah": 1,
+                "harga_saat_beli": 87000
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "kode_transaksi": "KN-CC18F447",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 08:52:53",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "kode_transaksi": "KN-5F0AE720",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 09:18:38",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "kode_transaksi": "KN-D5537119",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 09:29:23",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "kode_transaksi": "KN-77EB1166",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 165000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 10:37:36",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 85000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 80000
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "kode_transaksi": "KN-AFEE286E",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 111000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 11:51:48",
+        "items": [
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            },
+            {
+                "produk_id": 15,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "kode_transaksi": "KN-3D416459",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 220000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 13:32:37",
+        "items": [
+            {
+                "produk_id": 17,
+                "jumlah": 2,
+                "harga_saat_beli": 80000
+            },
+            {
+                "produk_id": 5,
+                "jumlah": 1,
+                "harga_saat_beli": 60000
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "kode_transaksi": "KN-6CF47D55",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 156000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 13:33:50",
+        "items": [
+            {
+                "produk_id": 13,
+                "jumlah": 1,
+                "harga_saat_beli": 95000
+            },
+            {
+                "produk_id": 14,
+                "jumlah": 1,
+                "harga_saat_beli": 61000
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "kode_transaksi": "KN-8AE56874",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 80000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 23:00:48",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 35000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 45000
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "kode_transaksi": "KN-50ED790B",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 130000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-27 23:03:21",
+        "items": [
+            {
+                "produk_id": 4,
+                "jumlah": 1,
+                "harga_saat_beli": 50000
+            },
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 35000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 1,
+                "harga_saat_beli": 45000
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "kode_transaksi": "KN-608243D3",
+        "nama_pemesan": "farya",
+        "kontak": "085340987191",
+        "total": 325000,
+        "status": "baru",
+        "dibuat_pada": "2026-10-28 10:17:05",
+        "items": [
+            {
+                "produk_id": 1,
+                "jumlah": 1,
+                "harga_saat_beli": 35000
+            },
+            {
+                "produk_id": 2,
+                "jumlah": 2,
+                "harga_saat_beli": 45000
+            },
+            {
+                "produk_id": 3,
+                "jumlah": 2,
+                "harga_saat_beli": 100000
+            }
+        ]
+    }
+]
